@@ -32,25 +32,25 @@ endmodule
 
 
 
-OUTPUT
+//OUTPUT
 
-# KERNEL: initial team members: batch_4 = 0
-# KERNEL: ---push back queue-----
-# KERNEL: batch_4[0] = tiger
-# KERNEL: batch_4[1] = cheeta
-# KERNEL: batch_4[2] = lion
-# KERNEL: --- push_front methods ---
-# KERNEL: batch_4[0] = FOX
-# KERNEL: batch_4[1] = tiger
-# KERNEL: batch_4[2] = cheeta
-# KERNEL: batch_4[3] = lion
-# KERNEL: -----------------------
-# KERNEL: --- pop_back methods ---
-# KERNEL: batch_4[0] = FOX
-# KERNEL: batch_4[1] = tiger
-# KERNEL: batch_4[2] = cheeta
-# KERNEL: -----------------------
-# KERNEL: --- pop_front methods ---
-# KERNEL: batch_4[0] = tiger
-# KERNEL: batch_4[1] = cheeta
-# KERNEL: -----------------------
+// # KERNEL: initial team members: batch_4 = 0
+// # KERNEL: ---push back queue-----
+// # KERNEL: batch_4[0] = tiger
+// # KERNEL: batch_4[1] = cheeta
+// # KERNEL: batch_4[2] = lion
+// # KERNEL: --- push_front methods ---
+// # KERNEL: batch_4[0] = FOX
+// # KERNEL: batch_4[1] = tiger
+// # KERNEL: batch_4[2] = cheeta
+// # KERNEL: batch_4[3] = lion
+// # KERNEL: -----------------------
+// # KERNEL: --- pop_back methods ---
+// # KERNEL: batch_4[0] = FOX
+// # KERNEL: batch_4[1] = tiger
+// # KERNEL: batch_4[2] = cheeta
+// # KERNEL: -----------------------
+// # KERNEL: --- pop_front methods ---
+// # KERNEL: batch_4[0] = tiger
+// # KERNEL: batch_4[1] = cheeta
+// # KERNEL: -----------------------
