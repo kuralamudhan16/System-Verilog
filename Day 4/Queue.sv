@@ -23,18 +23,18 @@ module batch_4;
 endmodule
 
 
-OUTPUT
+//OUTPUT
 
-# KERNEL: Initial members:batch_4=0
-# KERNEL: team members:batch_4=3
-# KERNEL: --------------------------
-# KERNEL: team members:batch_4=9
-# KERNEL: batch_4[0]=valan
-# KERNEL: batch_4[1]=kural
-# KERNEL: batch_4[2]=guhan
-# KERNEL: batch_4[3]=nikathan
-# KERNEL: batch_4[4]=kirithik
-# KERNEL: batch_4[5]=roy
-# KERNEL: batch_4[6]=jana
-# KERNEL: batch_4[7]=aslin
-# KERNEL: batch_4[8]=kabilan
+// # KERNEL: Initial members:batch_4=0
+// # KERNEL: team members:batch_4=3
+// # KERNEL: --------------------------
+// # KERNEL: team members:batch_4=9
+// # KERNEL: batch_4[0]=valan
+// # KERNEL: batch_4[1]=kural
+// # KERNEL: batch_4[2]=guhan
+// # KERNEL: batch_4[3]=nikathan
+// # KERNEL: batch_4[4]=kirithik
+// # KERNEL: batch_4[5]=roy
+// # KERNEL: batch_4[6]=jana
+// # KERNEL: batch_4[7]=aslin
+// # KERNEL: batch_4[8]=kabilan
